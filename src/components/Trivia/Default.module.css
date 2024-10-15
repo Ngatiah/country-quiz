@@ -1,0 +1,49 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    /* background-color: #343964; */
+    background: linear-gradient(#343964,#393f6e);
+    /* background: linear-gradient(#343964,#393f6e); */
+    border-radius: 8px;
+    padding: 20px;
+    margin:50px 200px;
+    width: 80%;
+    /* opacity: 0.9; */
+}
+
+.main h4{
+    text-align: center;
+    color: #8b8eab;
+    font-size: 24px;
+    font-weight: 600;
+
+}
+
+.stepper{
+    width: 60%;
+    padding: 20px;
+    margin-left: 14rem;
+}
+
+.content{
+    margin: 0 ;
+}
+
+.content .answers{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+
+}
+
+.answers{
+   margin:30px 160px;
+
+}
+
+.content h3{
+    color: #e2e4f3;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 600;
+    margin-right: 150px;
+}

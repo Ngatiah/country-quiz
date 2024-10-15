@@ -1,0 +1,28 @@
+li{
+    list-style: none;
+}
+
+.button{
+    width: 300px;
+    height: 80px;
+    font-size: 19px;
+    font-weight: 600;
+    border: none;
+    margin: 8px;
+    border-radius: 10px;
+    /* background-color: #343964; */
+    background-color: #8b8eab;
+    color: #e2e4f3;
+    cursor: pointer;
+    outline: none;
+}
+
+.button :hover{
+    background: linear-gradient(#e65895,#bc6be8);
+}
+
+
+.active{
+    color:#e2e4f3 ;
+    background: linear-gradient(#e65895,#bc6be8);
+}

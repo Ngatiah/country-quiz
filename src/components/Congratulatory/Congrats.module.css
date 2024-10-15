@@ -1,0 +1,46 @@
+.congrats{
+    background-color: #343964;
+    color: #e2e4f3;
+    border-radius: 10px;
+    padding: 80px;
+    margin: 200px 600px;
+    width: 450px;
+    height: 500px;
+    text-align: center;
+    
+}
+
+
+/* .confetti{ */
+    /* background-color: #ffecc8;
+    border: 1px solid #ffecc8;
+    border-radius: 50%; */
+/* } */
+
+.message{
+    margin-top: 150px;
+
+}
+.message p{
+    font-size: 18px;
+    font-weight: 400;
+
+}
+
+.message h2{
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+}
+
+.congrats .btn{
+    background: linear-gradient(#e65895,#bc6be8);
+    width: 300px;
+    height: 60px;
+    border-radius: 10px;
+    border: none;
+   color:#e2e4f3 ;
+   font-size: 18px;
+   font-weight: 600;
+
+}
